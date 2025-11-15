@@ -72,15 +72,7 @@ _Unsupervised anomaly detection using clustering and statistical ML techniques f
 ### 🛍️ **7. Web Scraping Automation System**  
 _Automates domain + email extraction with smart validation pipelines (Python + BeautifulSoup)._
 
----
 
-## 📈 GitHub Stats  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abdullahmehmood&show_icons=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahmehmood" />
-</p>
-
----
 
 ## 📫 Contact Me  
 - 💼 LinkedIn: **linkedin.com/in/abdullah-mehmood-12548a228/**  
